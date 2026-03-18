@@ -1,6 +1,6 @@
 👋 Olá, eu sou Paulo Pereira
 
-🎯 Analista de Dados | Python | SQL | Power BI
+🎯 Analista de Dados | Python | SQL | Power BI | Machine Learning | Integração de Dados | Engenheiro de Software Java | 7+ anos em Tecnologia | Híbrido SP / Remoto
 
 Tenho experiência em tecnologia com foco em análise de dados, criação de dashboards e geração de insights para tomada de decisão.
 
