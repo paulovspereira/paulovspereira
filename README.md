@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Olá, eu sou Paulo Pereira
 
-<!--
-**paulovspereira/paulovspereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Analista de Dados | Python | SQL | Power BI
 
-Here are some ideas to get you started:
+Tenho experiência em tecnologia com foco em análise de dados, criação de dashboards e geração de insights para tomada de decisão.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Projetos em destaque
+
+🔍 Análise de Churn de Clientes
+
+📈 Análise de Vendas
+
+📊 Dashboard com Power BI
+
+💬 Análise de Sentimentos (NLP)
+
+🛠 Tecnologias
+
+Python (Pandas, NumPy)
+
+SQL
+
+Power BI
+
+Machine Learning
+
+📌 Objetivo
+
+Atuar como Analista de Dados, utilizando dados para gerar valor e apoiar decisões de negócio.
+
+🔥 Resultado disso
+
+Quando recrutador entrar:
+
+👉 Ele entende você em 10 segundos
+👉 Vê seus projetos
+👉 Vê seu foco
+
+💡 Dica importante
+
+Depois disso:
+
+👉 coloque o GitHub no LinkedIn
+👉 coloque nos Destaques
