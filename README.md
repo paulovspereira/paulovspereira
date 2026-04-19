@@ -2,7 +2,6 @@
 
 🎯 Analista de Dados | Python | SQL | Power BI | Machine Learning | Integração de Dados | Engenheiro de Software Java | 7+ anos em Tecnologia | Híbrido SP / Remoto
 
-#RESUMO PROFISSIONAL#
 Profissional com mais de 7 anos de experiência em tecnologia, atuando como Engenheiro de Software e Analista de Sistemas em empresas como IBM, Itaú e Petrobras. Experiência com integração de sistemas, análise de dados e ambientes em nuvem (AWS). Atualmente focado em Análise de Dados e Inteligência Artificial, com forte capacidade analítica e visão de negócio.
 
 📊 Projetos em destaque
